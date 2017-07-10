@@ -395,7 +395,7 @@ ul.contact li a.icon-rss:before
 	font-size: 2.5em;
 	text-transform: uppercase;
 	font-weight: 700;
-	color: #orange;
+	color: #blue;
 	padding-right: 0.50em;
 	border-right: 1px solid rgba(0,0,0,.1);
 }
@@ -412,7 +412,7 @@ ul.contact li a.icon-rss:before
 #logo a
 {
 	text-decoration: none;
-	color: orange;
+	color: blue;
 }
 
 #logo b
@@ -466,7 +466,7 @@ ul.contact li a.icon-rss:before
 	font-size: medium;
 	text-transform: uppercase;
 	outline: 0;
-	color: orange;
+	color: blue;
 }
 
 #menu li:hover a, #menu li.active a, #menu li.active span
@@ -479,7 +479,7 @@ ul.contact li a.icon-rss:before
 	font-size: 2.5em;
 	text-transform: uppercase;
 	font-weight: 700;
-	color: orange;
+	color: blue;
 	padding-right: 0.50em;
 	padding-top: 0px;
 	border-right: 1px solid rgba(0,0,0,.1);
